@@ -25,9 +25,9 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="180">
       <a href="https://github.com/wntjq68">
-        <img src="https://avatars.githubusercontent.com/u/22047374?v=4" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/22047374?v=4" width="100" alt=""/>
         <br />
         <sub><b>장주섭</b></sub>
       </a>
@@ -35,9 +35,9 @@
         Android Developer
       </p>
     </td>
-    <td align="center">
+    <td align="center" width="180">
       <a href="https://github.com/chlwodud77">
-        <img src="https://avatars.githubusercontent.com/u/22047622?v=4" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/22047622?v=4" width="100" alt=""/>
         <br />
         <sub><b>최재영</b></sub>
       </a>
@@ -45,9 +45,9 @@
         Backend Developer
       </p>
     </td>
-    <td align="center">
+    <td align="center" width="180">
       <a href="https://github.com/Darkeroe">
-        <img src="https://avatars.githubusercontent.com/u/22341312?v=4" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/22341312?v=4" width="100" alt=""/>
         <br />
         <sub><b>박현준</b></sub>
       </a>
@@ -55,9 +55,9 @@
         Backend Developer
       </p>
     </td>
-    <td align="center">
+    <td align="center" width="180">
       <a href="https://github.com/baesh3744">
-        <img src="https://avatars.githubusercontent.com/u/22341362?v=4" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/22341362?v=4" width="100" alt=""/>
         <br />
         <sub><b>배성훈</b></sub>
       </a>
@@ -65,9 +65,9 @@
         ML Developer
       </p>
     </td>
-    <td align="center">
+    <td align="center" width="180">
       <a href="https://github.com/shinee2jh">
-        <img src="https://avatars.githubusercontent.com/u/33916333?v=4" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/33916333?v=4" width="100" alt=""/>
         <br />
         <sub><b>김안지</b></sub>
       </a>
