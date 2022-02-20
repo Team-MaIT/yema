@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td align="center" width="180">
-      <a href="https://github.com/wntjq68">
+      <a href="https://github.com/JuseobJang">
         <img src="https://avatars.githubusercontent.com/u/22047374?v=4" width="100" alt=""/>
         <br />
         <sub><b>장주섭</b></sub>
